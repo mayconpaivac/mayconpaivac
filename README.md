@@ -10,7 +10,7 @@
 
   <div style="">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-plain.svg" width="48" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" />
+    <img src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg)" width="48" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
     <img src="https://reactnative.dev/img/header_logo.svg" width="48" />
