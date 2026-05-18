@@ -1,33 +1,29 @@
-## Hi, my name is Maycon Paiva 👋
+# Maycon Paiva
 
-<a href="https://github.com/mayconpaivac">
-   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayconpaivac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconpaivac&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-blue?style=for-the-badge" alt="Role">
+</p>
 
-  <br />
+---
 
-  <div style="">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-plain.svg" width="48" />
-    <img src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg)" width="48" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
-    <img src="https://reactnative.dev/img/header_logo.svg" width="48" />
-  </div>
-</a>
+### 💻 Sobre Mim
+Sou dev PHP, trabalho principalmente com Laravel, vue e react e react-native.
 
-<!--
-**mayconpaivac/mayconpaivac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando no Bora Com Tudo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30">
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconpaivac&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
